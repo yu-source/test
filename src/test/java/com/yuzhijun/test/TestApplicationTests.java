@@ -8,6 +8,9 @@ class TestApplicationTests {
 
 	@Test
 	void contextLoads() {
+
+		System.out.printf("Hello！");
+
 	}
 
 }
